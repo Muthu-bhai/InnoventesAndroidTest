@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Innoventes Android Test</string>
+    <string name="enter_birthdate_yyyy_mm_dd">Enter Birthdate (yyyy-mm-dd)</string>
+    <string name="enter_pan_number">Enter PAN number</string>
+    <string name="next">Next</string>
+    <string name="i_don_t_have_a_pan">I don\'t have a PAN</string>
+    <string name="subtittle">First of the few steps to set you up with a Bank Account</string>
+    <string name="pan_number">PAN NUMBER</string>
+    <string name="pan_number_hint_axspa48498">AXSPA48498</string>
+    <string name="birthdate">BIRTHDATE</string>
+    <string name="dd">DD</string>
+    <string name="_03">03</string>
+    <string name="mm">MM</string>
+    <string name="_10">10</string>
+    <string name="yyyy">YYYY</string>
+    <string name="_1998">1998</string>
+    <string name="pan_details_text"><![CDATA[Providing PAN & Date of Birth helps us find and fetch your KYC from a central registry by the Government of India. Learn more]]></string>
+    <string name="s">S.</string>
+    <string name="pan_number_">PAN Number:</string>
+    <string name="date_of_birth">Date of Birth:</string>
+    <string name="user_details">User Details</string>
+    <string name="pan_number_abcde1234f">Pan Number: ABCDE1234F</string>
+    <string name="date_of_birth_03_12_1998">Date of Birth: 03/12/1998</string>
+</resources>
